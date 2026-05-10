@@ -6,7 +6,7 @@
 
 - Engine: Unity
 - Language: C#
-- 인원: 개인 프로젝트
+- 인원: 6인 프로젝트
 
 ## 담당 기능
 
